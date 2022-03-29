@@ -1,4 +1,2 @@
-[master e527358] 4-lastline commit
- 2 files changed, 1 insertion(+), 2 deletions(-)
- create mode 100644 0x02-shell_redirections/.4-lastlines.swp
- mode change 100755 => 100644 0x02-shell_redirections/4-lastlines
+#!/bin/bash
+tail /etc/passwd
